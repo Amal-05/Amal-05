@@ -11,9 +11,10 @@
 ### 🔧 Tech Stack & Hardware
 <div align="center">
 
-[![Skill Icons](https://skillicons.dev/icons?i=arduino,raspberrypi,opencv,python,c,java,php,linux,git,github&perline=10)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=arduino,raspberrypi,opencv,python,c,java,php,linux,git,github,html,css,js,nodejs,react,vite,express,vscode&perline=9)](https://skillicons.dev)
 
 </div>
+
 
 ---
 
