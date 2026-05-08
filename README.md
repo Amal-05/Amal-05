@@ -1,19 +1,27 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Amal!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Creator&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Amal!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Code.%20Build.%20Automate.&descAlignY=55&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+Interactive+GitHub+Profile!;💻+I+build+things+for+the+web.;🌟+Always+learning+new+technologies!;🎮+Check+out+my+Snake+Contribution+Graph+below!)](https://github.com/Amal-05)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=🚀+Building+AI,+IoT,+%26+Web+Applications;🤖+AI+Projects+|+Automation+|+Embedded+Systems;👁️+Computer+Vision+%26+Smart+Automation;⚙️+Real-time+camera+processing+%26+automation;🔌+Microcontrollers+%26+AVR+programming)](https://github.com/Amal-05)
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🔧 Tech Stack & Hardware
 <div align="center">
 
-[![Skill Icons](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,vite,python,docker,git,github,vscode&perline=12)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=arduino,raspberrypi,opencv,python,c,java,php,linux,git,github&perline=10)](https://skillicons.dev)
 
 </div>
+
+---
+
+### 💡 What I Do
+- 🤖 **AI & Machine Learning:** Integrating intelligent basics into functional automation.
+- 👁️ **Computer Vision:** Real-time camera processing and smart automation systems.
+- ⚙️ **Embedded Systems:** Microcontrollers, AVR programming, Arduino, and Raspberry Pi.
+- 💻 **Software & Web:** Java programming, C programming, and PHP web development.
 
 ---
 
