@@ -28,12 +28,12 @@
 ### 📊 My GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amal-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Amal-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amal-05&theme=tokyonight&hide_border=true&background=0D1117)
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amal-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
 
